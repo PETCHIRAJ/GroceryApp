@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Rice Varieties",
+    "contents": ["Basmati", "Seeraga samba", "Ponni Rice", "Idly Rice"]
+  },
+  {
+    "title": "Oil Varieties",
+    "contents": ["Sunflower Oil", "Coconut Oil", "Sesame Oil", "Ghee"]
+  },
+  {
+    "title": "Dhal and lentil varieties",
+    "contents": [
+      "Toor dal",
+      "Moong dal",
+      "Urad dal",
+      "Chana dal",
+      "Split urad dal",
+      "Black urad dal",
+      "Rajma | red kidney beans",
+      "Karamani (black and red)",
+      "Green peas",
+      "Green gram dal ( pachai payaru)",
+      "Chick peas( vellai konda kadalai)",
+      "Black chana ( karuppu konda kadalai)",
+      "Masoor dal",
+      "pottukadalai",
+      "Kollu (horse gram)",
+      "Peanuts (verkadalai)]"
+    ]
+  },
+  {
+    "title": "Masala spice powder",
+    "contents": [
+      "Asafoetida (perungayam)",
+      "Red chilli powder",
+      "Sambar powder",
+      "Idli milgai powder",
+      "Turmeric powder",
+      "Garam masala",
+      "Pav bhaji masala",
+      "Chaat masala",
+      "Tea masala",
+      "Aamchoor powder",
+      "Biryani masala",
+      "Dahi vada raita masala",
+      "Cumin powder",
+      "Coriander powder",
+      "Kasoori methi",
+      "Fennel seed powder ( sombu podi)"
+    ]
+  },
+  {
+    "title": "Flours",
+    "contents": [
+      "Whole wheat flour | atta",
+      "Besan | gram flour| kadalai maavu",
+      "Rice flour",
+      "Idiyappam flour",
+      "Corn flour",
+      "Maida",
+      "Ragi flour"
+    ]
+  }
+]
